@@ -3,22 +3,24 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KishenPC">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kishen-pc-a68b41320/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
+
   <a href="https://www.instagram.com/bananapeeloriginal/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" />
   </a>
-</p>
+  &nbsp;&nbsp;
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&hide_border=true&border_radius=0&bg_color=00000000&title_color=7AA2F7&text_color=C0CAF5" />
+  <a href="YOUR_SPOTIFY_PROFILE">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" height="40" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="YOUR_STEAM_PROFILE">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" height="40" />
+  </a>
 </p>
 
 <p align="center">
