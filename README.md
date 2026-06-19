@@ -32,15 +32,27 @@
 </tr>
 
 <tr>
-<td colspan="2" align="center">
+<td width="25%" align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120"/>
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2" align="center">
+<td colspan="3" align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&bg_color=00000000&color=C0CAF5&line=7AA2F7&point=BB9AF7&area=true&hide_border=true" />
 
@@ -48,7 +60,7 @@
 </tr>
 
 <tr>
-<td colspan="2" align="center">
+<td colspan="3" align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" />
 
