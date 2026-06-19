@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&pause=3000&color=BB9AF7&center=true&vCenter=true&width=900&lines=music+taste+is+a+personality+trait." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&pause=3000&color=BB9AF7&center=true&vCenter=true&width=600&lines=music+taste+is+a+personality+trait." />
 </p>
 
 <p align="center">
@@ -19,14 +19,16 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&hide_border=true&border_radius=0&bg_color=00000000&title_color=7AA2F7&text_color=C0CAF5" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&hide_border=true&border_radius=0&bg_color=00000000&theme=tokyonight&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&hide_border=true&border_radius=0&bg_color=00000000&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="./assets/nyan-cat-nyan-v2.gif" height="130" />
+  <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/main/assets/nyan-cat-nyan-v2.gif" height="120" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&border_radius=0&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
-  <img src="./assets/gatos-memes-gato-meme.gif" height="150" />
+
+  <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/main/assets/gatos-memes-gato-meme.gif" height="120" />
 </p>
 
 <p align="center">
