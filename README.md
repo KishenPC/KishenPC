@@ -24,9 +24,11 @@
 </p>
 
 <p align="center">
-  <img src="LEFT_GIF" width="120" style="vertical-align: middle;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&border_radius=0&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" style="vertical-align: middle;" />
-  <img src="RIGHT_GIF" width="120" style="vertical-align: middle;" />
+  <img src="LEFT_GIF" width="120" height="120">
+  &nbsp;&nbsp;
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&border_radius=0&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5">
+  &nbsp;&nbsp;
+  <img src="RIGHT_GIF" width="120" height="120">
 </p>
 
 <p align="center">
