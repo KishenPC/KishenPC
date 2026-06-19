@@ -22,34 +22,38 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
+
 </td>
 <td width="50%" align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=tokyonight&hide_border=true&background=00000000" />
+
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KishenPC&theme=tokyonight" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=github-dark&hide_border=true&bg_color=00000000" />
+
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=tokyo-night&hide_border=true" />
-</td>
-</tr>
 
-<tr>
-<td colspan="2" align="center">
 <img width="100%" src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" />
+
 </td>
 </tr>
 </table>
