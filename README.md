@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&pause=3000&color=BB9AF7&center=true&vCenter=true&width=700&lines=music+taste+is+a+personality+trait.;i+write+code+sometimes.;terminally+online." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&pause=3000&color=BB9AF7&center=true&vCenter=true&width=600&lines=music+taste+is+a+personality+trait.;i+write+code+sometimes." />
 </p>
 
 <p align="center">
@@ -16,10 +16,6 @@
   <a href="https://open.spotify.com/user/bananapeeloriginal?si=4d124d4a1ebe4a41">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" height="40" />
   </a>
-</p>
-
-<p align="center">
-  <sub>♫ currently rotating the same 5 albums</sub>
 </p>
 
 <p align="center">
