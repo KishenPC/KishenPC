@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" height="150" />
-  &nbsp;&nbsp;
+  <img src="https://media.tenor.com/JfBNTAc9QWAAAAAi/nyan-cat.gif" height="150" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&border_radius=0&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" height="150" />
+
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/cat.gif" height="150" />
 </p>
 
 <p align="center">
