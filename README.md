@@ -1,7 +1,7 @@
 <h1 align="center">Kishen Pathiyan Cherumanal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&pause=3000&color=BB9AF7&center=true&vCenter=true&width=900&lines=music+taste+is+a+personality+trait." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&pause=3000&color=BB9AF7&center=true&vCenter=true&width=900&lines=pretending+my+music+taste+is+a+personality+trait." />
 </p>
 
 <p align="center">
@@ -19,21 +19,37 @@
   </a>
 </p>
 
-<br>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</td>
+<td width="50%" align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=tokyonight&hide_border=true" />
-</p>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KishenPC&theme=tokyonight" />
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=tokyo-night&hide_border=true" />
-</p>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=tokyo-night&hide_border=true" />
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" />
+</td>
+</tr>
+</table>
