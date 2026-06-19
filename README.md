@@ -14,33 +14,39 @@
   <a href="https://www.instagram.com/bananapeeloriginal/">
     <img src="https://img.shields.io/badge/Instagram-FF79C6?style=flat-square&logo=instagram&logoColor=F8F8F2" />
   </a>
+  <a href="https://open.spotify.com/user/bananapeeloriginal">
+    <img src="https://img.shields.io/badge/Spotify-50FA7B?style=flat-square&logo=spotify&logoColor=282A36" />
+  </a>
 </p>
 
 <br>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=dracula&hide_border=true" />
-</p>
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" />
+</td>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=dracula&hide_border=true" />
-</p>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=dracula&hide_border=true" />
+</td>
+</tr>
 
-<br>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=dracula&hide_border=true" />
+</td>
+</tr>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=dracula&hide_border=true" />
-</p>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=dracula&hide_border=true" />
+</td>
+</tr>
 
-<br>
-
-<p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<br>
-
-<p align="center">
-  <img width="70%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=bananapeeloriginal&cover_image=true&theme=novatorem&show_offline=true&background_color=282A36&interchange=true" />
-</p>
+<tr>
+<td colspan="2" align="center">
+<img src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" />
+</td>
+</tr>
+</table>
