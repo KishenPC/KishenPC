@@ -1,4 +1,4 @@
-<h1 align="center">Kishen Pathiyan Cherumanal</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&pause=3000&color=BB9AF7&center=true&vCenter=true&width=900&lines=pretending+my+music+taste+is+a+personality+trait." />
