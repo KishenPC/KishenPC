@@ -16,39 +16,31 @@
   </a>
 </p>
 
----
-
-## GitHub Analytics
+<br>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=dracula&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=dracula&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=dracula&hide_border=true" />
 </p>
 
----
-
-## Activity Graph
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=dracula&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=dracula&hide_border=true" />
 </p>
 
----
-
-## Contribution Snake
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img width="95%" src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
-## Listening To
+<br>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bananapeeloriginal&cover_image=true&theme=novatorem&show_offline=true&background_color=282A36&interchange=true" />
+  <img width="70%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=bananapeeloriginal&cover_image=true&theme=novatorem&show_offline=true&background_color=282A36&interchange=true" />
 </p>
