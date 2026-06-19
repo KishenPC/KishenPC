@@ -21,7 +21,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&text_color=E6E6E6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&hide_border=true&theme=dracula&rank_icon=github&hide=contribs" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=E6E6E6" />
 </p>
 
