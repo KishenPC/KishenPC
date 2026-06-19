@@ -22,18 +22,18 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=catppuccin_mocha&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=catppuccin-mocha&hide_border=true" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=catppuccin-mocha&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=catppuccin-mocha&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=catppuccin-mocha&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" />
 </p>
