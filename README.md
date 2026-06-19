@@ -58,3 +58,17 @@
 </td>
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/bananapeeloriginal">
+    <img src="https://img.shields.io/badge/Open%20Spotify%20Profile-9ECE6A?style=for-the-badge&logo=spotify&logoColor=1A1B26" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skyline.github.com/KishenPC">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Skyline-7AA2F7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
