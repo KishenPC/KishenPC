@@ -42,41 +42,6 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## Listening To
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bananapeeloriginal&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
-</p>
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&theme=transparent" />
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
@@ -85,5 +50,5 @@
 ## Listening To
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bananapeeloriginal&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
+  <img src="YOUR_SPOTIFY_CARD_URL_HERE" />
 </p>
