@@ -34,7 +34,30 @@
 <tr>
 <td colspan="2" align="center">
 
-<img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
+<table align="center">
+<tr>
+
+<td width="25%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KishenPC&theme=tokyonight&utcOffset=5.5" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KishenPC&theme=tokyonight" />
+
+</td>
+
+</tr>
+</table>
+
 
 </td>
 </tr>
