@@ -1,7 +1,7 @@
 <h1 align="center">Kishen Pathiyan Cherumanal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=3000&center=true&vCenter=true&width=900&lines=Outside+of+tech%2C+I'm+usually+playing+games%2C+discovering+new+music%2C+and+pretending+my+music+taste+is+a+personality+trait." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=3000&center=true&vCenter=true&width=900&lines=pretending+my+music+taste+is+a+personality+trait." alt="Typing SVG" />
 </p>
 
 <p align="center">
