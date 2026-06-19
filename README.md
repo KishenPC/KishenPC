@@ -1,7 +1,7 @@
 <h1 align="center">Kishen Pathiyan Cherumanal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=3000&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Building+Developer+Tools;Interested+in+Systems+and+Recommendation+Engines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=3000&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Building+Developer+Tools;Interested+in+Systems+and+Recommendation+Engines" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/bananapeeloriginal/">
-    <img src="https://img.shields.io/badge/BananaPeel-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -23,14 +23,6 @@
 Computer Science undergraduate interested in full-stack development, backend systems, developer tooling, recommendation systems, cloud infrastructure, and machine learning.
 
 I enjoy building software, exploring system design, and learning how scalable systems are designed and operated.
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python,react,nextjs,astro,tailwind,nodejs,express,postgres,supabase,firebase,git,github,vercel,vscode" />
-</p>
 
 ---
 
@@ -58,7 +50,7 @@ I enjoy building software, exploring system design, and learning how scalable sy
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -66,5 +58,5 @@ I enjoy building software, exploring system design, and learning how scalable sy
 ## Listening To
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bananapeeloriginal&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
 </p>
