@@ -18,8 +18,14 @@
 
 ---
 
+## GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&text_color=E6E6E6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&text_color=E6E6E6" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=E6E6E6&langs_count=8" />
 </p>
 
 <p align="center">
@@ -27,6 +33,8 @@
 </p>
 
 ---
+
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=dracula&hide_border=true" />
@@ -41,6 +49,8 @@
 </p>
 
 ---
+
+## Listening To
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bananapeeloriginal&cover_image=true&theme=default&show_offline=true&background_color=FF69B4&interchange=true" />
