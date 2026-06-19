@@ -1,5 +1,3 @@
-<h1 align="center">Kishen Pathiyan Cherumanal</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&pause=3000&color=BB9AF7&center=true&vCenter=true&width=900&lines=music+taste+is+a+personality+trait." />
 </p>
@@ -26,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/nyan-cat-nyan.gif" height="130" />
+  <img src="./assets/nyan-cat-nyan-v2.gif" height="130" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&border_radius=0&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
   <img src="./assets/gatos-memes-gato-meme.gif" height="150" />
 </p>
