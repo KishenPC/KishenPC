@@ -6,13 +6,15 @@
 
 <p align="center">
   <a href="https://github.com/KishenPC">
-    <img src="https://img.shields.io/badge/GitHub-1A1B26?style=flat-square&logo=github&logoColor=C0CAF5" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kishen-pc-a68b41320/">
-    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat-square&logo=linkedin&logoColor=1A1B26" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/bananapeeloriginal/">
-    <img src="https://img.shields.io/badge/Instagram-BB9AF7?style=flat-square&logo=instagram&logoColor=1A1B26" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" />
   </a>
 </p>
 
