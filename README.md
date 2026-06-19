@@ -22,8 +22,8 @@
 <br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=catppuccin_mocha&hide_border=true" />
 </p>
 
 <p align="center">
