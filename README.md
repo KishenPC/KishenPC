@@ -24,9 +24,21 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="110" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&border_radius=0&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="110" />
+<table>
+<tr>
+<td align="center" valign="middle">
+<img src="YOUR_GIF" width="120">
+</td>
+
+<td align="center" valign="middle">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&border_radius=0&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5">
+</td>
+
+<td align="center" valign="middle">
+<img src="YOUR_GIF" width="120">
+</td>
+</tr>
+</table>
 </p>
 
 <p align="center">
