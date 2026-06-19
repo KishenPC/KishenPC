@@ -6,23 +6,22 @@
   <a href="https://www.linkedin.com/in/kishen-pc-a68b41320/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/bananapeeloriginal/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="YOUR_SPOTIFY_PROFILE">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" height="40" />
+  <a href="https://open.spotify.com/user/bananapeeloriginal?si=4d124d4a1ebe4a41">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" height="40" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="YOUR_STEAM_PROFILE">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" height="40" />
+  <a href="YOUR_STEAM_PROFILE_URL">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670382.png" height="40" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KishenPC/KishenPC/main/assets/nyan-cat-nyan-v2.gif" height="130" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&border_radius=0&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
