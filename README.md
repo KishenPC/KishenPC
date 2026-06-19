@@ -23,12 +23,13 @@
 <tr>
 <td width="50%" align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishenPC&show_icons=true&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&rank_icon=github" />
 
 </td>
+
 <td width="50%" align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenPC&layout=compact&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=C0CAF5" />
 
 </td>
 </tr>
@@ -36,7 +37,7 @@
 <tr>
 <td colspan="2" align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&theme=tokyonight&hide_border=true&background=00000000" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KishenPC&hide_border=true&background=00000000&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=7DCFFF&currStreakNum=C0CAF5&sideNums=C0CAF5" />
 
 </td>
 </tr>
@@ -44,7 +45,7 @@
 <tr>
 <td colspan="2" align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&theme=github-dark&hide_border=true&bg_color=00000000" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KishenPC&bg_color=00000000&color=C0CAF5&line=7AA2F7&point=BB9AF7&area=true&hide_border=true" />
 
 </td>
 </tr>
